@@ -1,6 +1,6 @@
 # Web_Chat
 
-Introduction
+**Introduction**
 
 This project is a SPA ( Single Page Application ) which simulates Web-Chat Online.
 
