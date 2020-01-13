@@ -10,4 +10,5 @@ Install all the required packages.
 
 Run it localy.
 
+![](image/viewSample.PNG)
 
